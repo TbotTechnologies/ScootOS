@@ -1,3 +1,3 @@
 # tOS
 
-tOS is a browswer base OS-like program that will mimic an older styled operating system with working apps, such as a pixel art editor, scootspace, and more.
+tOS is an operating system like program that can run retro styled apps.
